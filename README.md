@@ -1,1 +1,1 @@
-# Jupyter notebook for tutorials of scientific computing using python
+Jupyter notebook for tutorials on scientific computing using python
